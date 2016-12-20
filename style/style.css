@@ -1,0 +1,9 @@
+form a {
+  margin-left: 5px;
+}
+
+.categories,
+.delete-btn {
+  display: inline-block;
+  float: right;
+}
